@@ -112,4 +112,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi there! I'm **Jhoan Duran Criollo**, Data Engineer experienced in the design, development, and optimization of ETL/ELT pipelines for data migration projects to Azure Lakehouse architectures. Experience working with Azure Data Factory, Databricks, PySpark, Python, SQL, and Oracle on mission-critical enterprise projects.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jhoan-duran-criollo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhoan-duran-criollo/)
